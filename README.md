@@ -5,7 +5,7 @@
 </p>
 <br>
 
-### HERE IS A LITTLE BIT ABOUT ME &nbsp; <img src="./information.png" height="30" align="justify"/>
+### HERE IS A BIT MORE ABOUT ME &nbsp; <img src="./information.png" height="30" align="justify"/>
 
 <img src="./hi.gif" width="200" align="right"/>
 

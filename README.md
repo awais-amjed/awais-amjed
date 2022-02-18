@@ -1,11 +1,11 @@
-## HEY THERE - I AM AWAIS AMJED <img src="./waving-hand.png" height="40"/>
+## HEY THERE - I AM AWAIS AMJED <img src="./waving-hand.png" height="40" align="justify"/>
 <br><br>
 <p align="center">
   <img src="404.gif"/>
 </p>
 <br>
 
-### HERE IS A LITTLE BIT ABOUT ME &nbsp; <img src="./information.png" height="30"/>
+### HERE IS A LITTLE BIT ABOUT ME &nbsp; <img src="./information.png" height="30" align="justify"/>
 
 <img src="./hi.gif" width="200" align="right"/>
 
@@ -22,12 +22,12 @@ var awaisAmjed = {
 ```
 <br>
 
-### MY GITHUB STATISTICS &nbsp; <img src="./statistics.png" height="30"/>
+### MY GITHUB STATISTICS &nbsp; <img src="./statistics.png" height="30" align="justify"/>
 
 [![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=awais-amjed&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awais-amjed&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awais-amjed&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
-### WHAT I'VE BEEN UPTO THIS WEEK &nbsp; <img src="./statistics.png" height="30"/>
+### WHAT I'VE BEEN UPTO THIS WEEK &nbsp; <img src="./computer.png" height="40" align="justify"/>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=awais_amjed&hide_border=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 

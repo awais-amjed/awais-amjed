@@ -1,4 +1,4 @@
-## HEY THERE - I AM AWAIS AMJED <img src="./hi.gif" height="60"/>
+## HEY THERE - I AM AWAIS AMJED <img src="./waving-hand.png" height="60"/>
 <br><br>
 <p align="center">
   <img src="404.gif"/>

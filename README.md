@@ -26,4 +26,4 @@ var awaisAmjed = {
 
 [![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=awais-amjed&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=awais_amjed&hide_border=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awais-amjed&langs_count=6&hide_border=true&layout=compact&card_width=900&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awais-amjed&langs_count=6&hide_border=true&layout=compact&card_width=800&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)

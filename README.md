@@ -7,7 +7,7 @@
 
 ### HERE IS A LITTLE BIT ABOUT ME &nbsp; <img src="./information.png" height="30"/>
 
-<img src="./hi.gif" height="250" align="right"/>
+<img src="./hi.gif" width="200" align="right"/>
 
 ```js
 var awaisAmjed = {

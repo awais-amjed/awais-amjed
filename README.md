@@ -1,11 +1,11 @@
-## HEY THERE - I AM AWAIS AMJED <img src="./waving-hand.png" height="30"/>
+## HEY THERE - I AM AWAIS AMJED <img src="./waving-hand.png" height="40"/>
 <br><br>
 <p align="center">
   <img src="404.gif"/>
 </p>
 <br>
 
-### HERE IS A LITTLE BIT ABOUT ME &nbsp; <img src="./information.png" height="20"/>
+### HERE IS A LITTLE BIT ABOUT ME &nbsp; <img src="./information.png" height="30"/>
 
 <img src="./hi.gif" height="250" align="right"/>
 
@@ -22,7 +22,7 @@ var awaisAmjed = {
 ```
 <br>
 
-### MY GITHUB STATISTICS &nbsp; <img src="./analytics.png" height="20"/>
+### MY GITHUB STATISTICS &nbsp; <img src="./statistics.png" height="30"/>
 
 [![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=awais-amjed&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=awais_amjed&hide_border=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)

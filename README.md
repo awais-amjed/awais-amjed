@@ -1,4 +1,7 @@
-![No Code is better than No Code](./sleep404.gif "Text to show on mouseover")
+<p align="center">
+  <img src="./sleep404.gif" />
+</p>
+<!-- ![No Code is better than No Code](./sleep404.gif "Text to show on mouseover") -->
 
 - 👋 Hi, I’m @awais-amjed
 - 👀 I’m interested in Development with Flutter

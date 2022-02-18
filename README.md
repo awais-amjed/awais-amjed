@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="./sleep404.gif" />
-</p>
-<!-- ![No Code is better than No Code](./sleep404.gif "Text to show on mouseover") -->
+https://user-images.githubusercontent.com/73714615/154677537-ff1ef13c-cc09-4b64-a850-b8ea89d71f83.mp4
 
 - 👋 Hi, I’m @awais-amjed
 - 👀 I’m interested in Development with Flutter

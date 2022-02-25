@@ -5,15 +5,15 @@
 </p>
 <br>
 
-### HERE IS A BIT MORE ABOUT ME &nbsp; <img src="./information.png" height="30" align="justify"/>
+### HERE IS SOME INFORMATION ABOUT ME &nbsp; <img src="./information.png" height="30" align="justify"/>
 
 <img src="./hi.gif" width="200" align="right"/>
 
 ```js
 var awaisAmjed = {
-  currentStatus: "Enrolled in Microverse soon to be a Full Stack Web Developer",
+  currentStatus: "Enrolled in Microverse, Soon to be a Full-Stack Web Developer",
   lookingForJobsIn: "Full Stack Web Development" || "Front-End Development with Flutter",
-  languages: [JavaScript, Html, Css, Dart, Python, Java],
+  languages: [JavaScript, HTML, CSS, Dart, Python, Java],
   qualification: "Computer Sciene Graduate",
   passions: Flutter && React,
   hobbies: ["Gaming", "Watching Movies", "Listening to Music"],
@@ -27,7 +27,7 @@ var awaisAmjed = {
 [![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=awais-amjed&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awais-amjed&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
-### WHAT I'VE BEEN UPTO THIS WEEK &nbsp; <img src="./computer.png" height="40" align="justify"/>
+### MY WAKATIME STATS &nbsp; <img src="./computer.png" height="40" align="justify"/>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=awais_amjed&hide_border=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 

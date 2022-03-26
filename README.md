@@ -36,4 +36,9 @@ var awaisAmjed = {
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=awais_amjed&hide_border=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### BADGES & CERTIFICATES &nbsp; <img src="./medal.png" height="30" align="justify"/>
+
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47857885" height="120" align="justify"/>](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/47857885)&nbsp;&nbsp;[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45950717" height="120" align="justify"/>](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/45950717)&nbsp;&nbsp;&nbsp;[<img src="./flutter_circle.png" height="120" align="top"/>](https://www.udemy.com/certificate/UC-68648df5-a16c-44bc-9305-bf8e1aaa239e/)
+
+
 

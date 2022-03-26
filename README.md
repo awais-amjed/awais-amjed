@@ -22,6 +22,13 @@ var awaisAmjed = {
 ```
 <br>
 
+### TECHNOLOGIES &nbsp; <img src="./technology.png" height="30" align="justify"/>
+
+<img src="./Flutter.png" height="70" align="justify"/>
+<img src="./React.png" height="70" align="justify"/>
+<img src="./JavaScript.png" height="70" align="justify"/>
+<img src="./html_css.jpg" height="70" align="justify"/>
+
 ### MY GITHUB STATISTICS &nbsp; <img src="./statistics.png" height="30" align="justify"/>
 
 [![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=awais-amjed&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)

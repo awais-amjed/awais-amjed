@@ -24,10 +24,7 @@ var awaisAmjed = {
 
 ### TECHNOLOGIES &nbsp; <img src="./technology.png" height="30" align="justify"/>
 
-<img src="./Flutter.png" height="70" align="justify"/>
-<img src="./React.png" height="70" align="justify"/>
-<img src="./JavaScript.png" height="70" align="justify"/>
-<img src="./html_css.jpg" height="70" align="justify"/>
+<img src="./Flutter.png" height="70" align="justify"/>&nbsp;&nbsp;<img src="./React.png" height="70" align="justify"/>&nbsp;&nbsp;<img src="./JavaScript.png" height="70" align="justify"/>&nbsp;&nbsp;<img src="./html_css.jpg" height="70" align="justify"/>&nbsp;&nbsp;<img src="./Python.webp" height="70" align="justify"/>&nbsp;&nbsp;<img src="./Java.png" height="70" align="justify"/>
 
 ### MY GITHUB STATISTICS &nbsp; <img src="./statistics.png" height="30" align="justify"/>
 

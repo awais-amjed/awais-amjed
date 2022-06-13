@@ -13,7 +13,8 @@
 var awaisAmjed = {
   currentStatus: "Enrolled in Microverse, Soon to be a Full-stack Web Developer",
   lookingForJobsIn: "Full Stack Web Development" || "Front-End Development with Flutter",
-  languages: [JavaScript, HTML, CSS, Dart, Python, Java],
+  languages: [JavaScript, Ruby, HTML, CSS, Dart, Python, Java],
+  frameworks: [Flutter, React, Ruby on Rails],
   qualification: "Computer Sciene Graduate",
   passions: Flutter && React,
   hobbies: ["Gaming", "Watching Movies", "Listening to Music"],

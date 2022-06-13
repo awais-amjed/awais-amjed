@@ -25,7 +25,7 @@ var awaisAmjed = {
 
 ### TECHNOLOGIES &nbsp; <img src="./technology.png" height="30" align="justify"/>
 
-<img src="./Flutter.png" height="70" align="justify"/>&nbsp;&nbsp;<img src="./react-logo.png" height="70" align="justify"/>&nbsp;&nbsp;<img src="./JavaScript.png" height="70" align="justify"/>&nbsp;&nbsp;<img src="./html_css.jpg" height="70" align="justify"/>&nbsp;&nbsp;<img src="./Python.webp" height="70" align="justify"/>&nbsp;&nbsp;<img src="./Java.png" height="70" align="justify"/>
+<img src="./react-logo.png" height="70" align="justify"/>&nbsp;&nbsp;<img src="./Flutter.png" height="70" align="justify"/>&nbsp;&nbsp;<img src="https://miro.medium.com/max/1000/1*lEXUSkEm6M6kIHmKP9HtWg.png" height="70" align="justify"/>&nbsp;&nbsp;<img src="./JavaScript.png" height="70" align="justify"/>&nbsp;&nbsp;<img src="./html_css.jpg" height="70" align="justify"/>&nbsp;&nbsp;<img src="./Python.webp" height="70" align="justify"/>&nbsp;&nbsp;<img src="./Java.png" height="70" align="justify"/>
 
 ### MY GITHUB STATISTICS &nbsp; <img src="./statistics.png" height="30" align="justify"/>
 
@@ -39,7 +39,7 @@ var awaisAmjed = {
 
 ### BADGES & CERTIFICATES &nbsp; <img src="./medal.png" height="30" align="justify"/>
 
-[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47857885" height="120" align="justify"/>](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/47857885)&nbsp;&nbsp;[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45950717" height="120" align="justify"/>](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/45950717)&nbsp;&nbsp;&nbsp;[<img src="./flutter_circle.png" height="120" align="top"/>](https://www.udemy.com/certificate/UC-68648df5-a16c-44bc-9305-bf8e1aaa239e/)
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/52033964" height="120" align="justify"/>](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/52033964)&nbsp;&nbsp;[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/49817923" height="120" align="justify"/>](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/49817923)&nbsp;&nbsp;[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47857885" height="120" align="justify"/>](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/47857885)&nbsp;&nbsp;[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45950717" height="120" align="justify"/>](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/45950717)&nbsp;&nbsp;&nbsp;[<img src="./flutter_circle.png" height="120" align="top"/>](https://www.udemy.com/certificate/UC-68648df5-a16c-44bc-9305-bf8e1aaa239e/)
 
 
 

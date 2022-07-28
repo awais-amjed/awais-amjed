@@ -11,8 +11,8 @@
 
 ```js
 var awaisAmjed = {
-  currentStatus: "Enrolled in Microverse, Soon to be a Full-stack Web Developer",
-  lookingForJobsIn: "Full Stack Web Development" || "Front-End Development with Flutter",
+  currentStatus: "Full-stack Web Developer - Looking for a Job",
+  lookingForJobsIn: "Full Stack Web Development" || "Mobile Development with Flutter",
   languages: [JavaScript, Ruby, HTML, CSS, Dart, Python, Java],
   frameworks: [Flutter, React, Ruby on Rails],
   qualification: "Computer Sciene Graduate",
@@ -34,7 +34,7 @@ var awaisAmjed = {
 
 ### WAKATIME STATS &nbsp; <img src="./computer.png" height="40" align="justify"/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=awais_amjed&hide_border=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=awais_amjed&hide_border=true&langs_count=7theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### BADGES & CERTIFICATES &nbsp; <img src="./medal.png" height="30" align="justify"/>

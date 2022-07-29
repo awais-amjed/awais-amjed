@@ -34,7 +34,7 @@ var awaisAmjed = {
 
 ### WAKATIME STATS &nbsp; <img src="./computer.png" height="40" align="justify"/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=awais_amjed&hide_border=true&langs_count=7theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=awais_amjed&hide_border=true&langs_count=7&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### BADGES & CERTIFICATES &nbsp; <img src="./medal.png" height="30" align="justify"/>

@@ -12,10 +12,10 @@
 ```js
 var awaisAmjed = {
   currentStatus: "Full-stack Web Developer at LOOFT Inc.",
-  lookingForJobsIn: "Full Stack Web Development" || "Mobile Development with Flutter",
-  languages: [JavaScript, Ruby, HTML, CSS, Dart, Python, Java],
+  lookingForOppurtunitiesIn: "Full Stack Web Development" || "Mobile Development with Flutter",
+  languages: [Dart, JavaScript, Ruby, HTML, CSS, Python, Java],
   frameworks: [Flutter, React, Ruby on Rails],
-  qualification: "Computer Sciene Graduate",
+  qualification: "Computer Scientist",
   passions: Flutter && React,
   hobbies: ["Gaming", "Watching Movies", "Listening to Music"],
   weirdFact: "I code while watching movies",

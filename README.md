@@ -11,7 +11,7 @@
 
 ```js
 var awaisAmjed = {
-  currentStatus: "Full-stack Web Developer - Looking for a Job",
+  currentStatus: "Full-stack Web Developer at LOOFT Inc.",
   lookingForJobsIn: "Full Stack Web Development" || "Mobile Development with Flutter",
   languages: [JavaScript, Ruby, HTML, CSS, Dart, Python, Java],
   frameworks: [Flutter, React, Ruby on Rails],

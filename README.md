@@ -26,7 +26,22 @@ var awaisAmjed = {
 
 ### TECHNOLOGIES &nbsp; <img src="./technology.png" height="30" align="justify"/>
 
-<img src="./react-logo.png" height="70" align="justify"/>&nbsp;&nbsp;<img src="./Flutter.png" height="70" align="justify"/>&nbsp;&nbsp;<img src="https://miro.medium.com/max/1000/1*lEXUSkEm6M6kIHmKP9HtWg.png" height="70" align="justify"/>&nbsp;&nbsp;<img src="./JavaScript.png" height="70" align="justify"/>&nbsp;&nbsp;<img src="./html_css.jpg" height="70" align="justify"/>&nbsp;&nbsp;<img src="./Python.webp" height="70" align="justify"/>&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-ar21.png" height="70" align="justify"/>&nbsp;&nbsp;<img src="./Java.png" height="70" align="justify"/>
+<a href="https://flutter.dev/"><img src="./techs/flutter.png" height="70" align="justify"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dart.dev/"><img src="./techs/dart.png" height="70" align="justify"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://react.dev/"><img src="./techs/react.png" height="70" align="justify"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://vitejs.dev/"><img src="./techs/vite.png" height="70" align="justify"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.javascript.com/"><img src="./techs/javascript.png" height="70" align="justify"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.w3schools.com/html/"><img src="./techs/html_css.png" height="70" align="justify"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://firebase.google.com/"><img src="./techs/firebase.png" height="70" align="justify"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://supabase.com/"><img src="./techs/supabase.png" height="70" align="justify"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.python.org/"><img src="./techs/python.png" height="70" align="justify"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.ruby-lang.org/"><img src="./techs/ruby.png" height="70" align="justify"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://rubyonrails.org/"><img src="./techs/rails.png" height="70" align="justify"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.postgresql.org/"><img src="./techs/postgres.png" height="70" align="justify"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.java.com/"><img src="./techs/java.png" height="70" align="justify"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://aws.amazon.com/"><img src="./techs/aws.png" height="70" align="justify"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://azure.microsoft.com/"><img src="./techs/azure.png" height="70" align="justify"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://appwrite.io/"><img src="./techs/appwrite.png" height="70" align="justify"/></a>
 
 ### MY GITHUB STATISTICS &nbsp; <img src="./statistics.png" height="30" align="justify"/>
 

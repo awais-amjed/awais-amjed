@@ -60,8 +60,8 @@ var awaisAmjed = {
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/47857885" height="200" align="justify"/>](https://www.credential.net/55550ade-1d33-4bbc-ad97-05a65276c385)&nbsp;
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/45950717" height="200" align="justify"/>](https://www.credential.net/acdc9005-1c39-44b6-8a77-676c7ddb76ec)&nbsp;
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/52033964" height="200" align="justify"/>](https://www.credential.net/8c2d131f-429e-4d5d-87c0-7a59a73e1ea8)&nbsp;
-[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/54063078" height="200" align="justify"/>](https://www.credential.net/3264e1f3-275c-44d9-bbc3-342a3117b951)&nbsp;
-[<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7J0lDU97--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/166/appwrite-participant-adge.png" height="120"/>](https://dev.to/badge/appwrite-hackathon-on-dev-e2-80-94-participant)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://user-images.githubusercontent.com/73714615/181765128-39c76809-671d-4fc3-81e8-16bb9b658992.png" height="120" align="top"/>](https://www.udemy.com/certificate/UC-68648df5-a16c-44bc-9305-bf8e1aaa239e/)
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/54063078" height="200" align="justify"/>](https://www.credential.net/3264e1f3-275c-44d9-bbc3-342a3117b951)
+
+[<img src="https://github.com/awais-amjed/awais-amjed/assets/73714615/b8b26f11-f097-4f35-8feb-58a7c64d2611" width="260" align="top"/>](https://www.udemy.com/certificate/UC-68648df5-a16c-44bc-9305-bf8e1aaa239e/)
 
 

@@ -57,11 +57,10 @@ var awaisAmjed = {
 
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/55295752" width="276" align="justify"/>](https://www.credential.net/4ddfd5d3-7b07-422c-8934-6ad87019c888)&nbsp;
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/49817923" width="276" align="justify"/>](https://www.credential.net/0593841a-80c2-4998-98cb-b36addd9a912)&nbsp;
-[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/47857885" width="276" align="justify"/>](https://www.credential.net/55550ade-1d33-4bbc-ad97-05a65276c385)&nbsp;
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/47857885" width="276" align="justify"/>](https://www.credential.net/55550ade-1d33-4bbc-ad97-05a65276c385)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/45950717" width="276" align="justify"/>](https://www.credential.net/acdc9005-1c39-44b6-8a77-676c7ddb76ec)&nbsp;
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/52033964" width="276" align="justify"/>](https://www.credential.net/8c2d131f-429e-4d5d-87c0-7a59a73e1ea8)&nbsp;
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/54063078" width="276" align="justify"/>](https://www.credential.net/3264e1f3-275c-44d9-bbc3-342a3117b951)
-
 [<img src="https://github.com/awais-amjed/awais-amjed/assets/73714615/b8b26f11-f097-4f35-8feb-58a7c64d2611" width="276" align="top"/>](https://www.udemy.com/certificate/UC-68648df5-a16c-44bc-9305-bf8e1aaa239e/)
 
 
